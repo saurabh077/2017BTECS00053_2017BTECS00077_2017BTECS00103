@@ -1,4 +1,4 @@
-# 2017BTECS00053_2017BTECS00077_2017BTECS00103_2015BCS024
+# 2017BTECS00053_2017BTECS00077_2017BTECS00103
 DIP submission
 Automatic Bottle filling inspection system using image processing
 
