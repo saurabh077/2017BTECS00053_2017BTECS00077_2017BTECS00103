@@ -20,4 +20,4 @@ Write name of color sample
 color_sample.png
 Then it asks for the image which is to be processed
 Enter input image
-Image name will be entered say Bottle5.png then it would give an output.
+Image name will be entered say Bottle5.png and bottle5.jpg would also work then it would give an output.
